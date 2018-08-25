@@ -22,7 +22,7 @@ Yeah! We have it hosted on AppSpot. Take a look: [BattleScribe Data on Appspot][
 
 
 ## Reporting bugs & contact us ##
-[Contact Us]: #contact
+[Contact Us]: #reporting-bugs--contact-us
 
   1. [Report it on Appspot][] - it's anonymous and no account is needed - one downside, you will need to manually check the progress of your issue.
   2. [Open Issue directly][] (green ```New Issue``` in upper-right) - you need a GitHub account and then can track progress (get notifications on it!), comment (i.e. answer our questions) and help us better!
